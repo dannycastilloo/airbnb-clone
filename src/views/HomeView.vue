@@ -1,9 +1,11 @@
 <script setup>
-import TheWelcome from '../components/TheWelcome.vue'
+import DestinyCard from '@/components/DestinyCard.vue';
+
+
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <DestinyCard />
   </main>
 </template>
