@@ -1,36 +1,14 @@
-# airbnb-clone
+### Airbnb Clone
 
-This template should help get you started developing with Vue 3 in Vite.
+### Figma Repository
+This clone was initially made in Figma.
 
-## Recommended IDE Setup
+![image](https://github.com/dannycastilloo/airbnb-clone/assets/76531494/c31481f7-ce1c-4188-ba1f-60da26dfe9dd)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+<a href="https://www.figma.com/file/q9JnTGEKRAy3T0Sw3bK3PS/Airbnb-Clone?type=design&node-id=3%3A516&mode=design&t=5wsK5fAUDND2kmBM-1">View Prototype</a>
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
-"#" 
+### How to execute this project
+- Clone the repository
+- Install node dependencies
+- Type "npm run dev"
+- Enjoy 😎
